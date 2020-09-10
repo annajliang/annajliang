@@ -13,4 +13,3 @@ Now as an adult, I've rekindled my love for coding and have gone on to expand up
 - 💬 Ask me about all things design related.
 - 😄 Pronouns: she/her
 - ⚡ Outside of coding, I enjoy board games, video games, karaoke and cooking with friends.
--->
