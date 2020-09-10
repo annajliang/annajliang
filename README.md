@@ -1,4 +1,4 @@
-![Screenshot](profile-banner.png) 
+![Banner](https://github.com/annajliang/annajliang/blob/master/profile-banner.png)
 
 My journey into web development and design all began on a website I frequented as a child called Neopets which inspired me to learn HTML and CSS at a young age.
 
