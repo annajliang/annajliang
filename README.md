@@ -6,7 +6,7 @@ Now as an adult, I've rekindled my love for coding and have gone on to expand up
 
 - 🏫 Currently enrolled in Juno College of Technology's part-time UX Design course
 - 🤓 Outside of class, I'm learning Redux, Testing (unit, integration, end-to-end) and Node.js
-- 🚧 Currently working on a photo editing web app and an online version of the board game, Codenames.
+- 🚧 Currently working on a photo editing web app and an online version of the board game, Codenames
 - 💬 Ask me about: All things design related
 - 😄 Pronouns: She/her
 - ⚡️ Outside of coding, I enjoy board games, video games, karaoke and cooking with friends
