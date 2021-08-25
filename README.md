@@ -6,7 +6,7 @@ Now as an adult, I've rekindled my love for coding and have gone on to expand up
 
 - 💼 Web Developer at <a href="https://endy.com/">Endy</a>
 - 🤓 Outside of work, I'm learning Vue.js, Tailwind CSS and Webpack
-- 🚧 Currently working on a lorem ipsum text generator and an online version of the board game, Codenames
+- 🚧 Currently working on a lorem ipsum text generator 
 - 💬 Ask me about: All things design related
 - 😄 Pronouns: She/her
 - ⚡️ Outside of coding, I enjoy board games, video games, karaoke, hot yoga and cooking with friends
