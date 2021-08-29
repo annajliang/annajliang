@@ -5,7 +5,7 @@ My journey into web development and design all began on a website I frequented a
 Now as an adult, I've rekindled my love for coding and have gone on to expand upon my previous skill set and knowledge, but one thing that remains the same is my desire to creatively solve problems through code and to help make the web a pleasing and user-friendly experience for all.
 
 - 💼 Web Developer at <a href="https://endy.com/">Endy</a>
-- 🤓 Outside of work, I'm learning Vue.js, Tailwind CSS and Webpack
+- 🤓 Outside of work, I'm learning Vue.js, TypeScript and Webpack
 - 🚧 Currently working on a lorem ipsum text generator 
 - 💬 Ask me about: All things design related
 - 😄 Pronouns: She/her
