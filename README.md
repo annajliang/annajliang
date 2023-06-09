@@ -1,14 +1,13 @@
-![Banner](https://github.com/annajliang/annajliang/blob/master/profile-banner.png)
+## Hi there, I'm Anna! 👋
 
-My journey into web development and design all began on a website I frequented as a child called Neopets which inspired me to learn HTML and CSS at a young age.
+My journey into web development and design dates back to my childhood on a site called <a href="https://en.wikipedia.org/wiki/Neopets" target=”_blank”/>Neopets</a>. It sparked my curiosity and motivated me to delve into learning HTML and CSS at a young age.
 
-Now as an adult, I've rekindled my love for coding and have gone on to expand upon my previous skill set and knowledge, but one thing that remains the same is my desire to creatively solve problems through code and to help make the web a pleasing and user-friendly experience for all.
+Today, as an adult, I have reconnected with my love for coding and have significantly broadened my skills and knowledge. However, one thing that has remained unchanged is my deep desire to use code as a creative problem-solving tool and to contribute to creating a delightful and user-friendly web experience for everyone.
 
-- 💼 Web Developer at <a href="https://endy.com/">Endy</a>
-- 🤓 Outside of work, I'm learning Functional Programming, Next.js & TypeScript
-- 🚧 Currently perfecting my React & TypeScript skills
+- 💼 Web Developer at <a href="https://endy.com/ target=”_blank”">Endy</a>
+- 🤓 Outside of work, I'm learning PostgreSQL
 - 💬 Ask me about: All things design related
 - 😄 Pronouns: She/her
-- ⚡️ Outside of coding, I enjoy board games, video games, karaoke, hot yoga and cooking with friends
+- ⚡️ Outside of coding, I enjoy board games, video games, karaoke, hot yoga and cooking!
 
-To learn more, checkout my <a href="https://annaliang.dev/">personal portfolio</a>.
+To learn more, checkout my <a href="https://annaliang.dev/" target=”_blank”>personal portfolio</a>.
