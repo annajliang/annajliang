@@ -8,6 +8,6 @@ Today, as an adult, I have reconnected with my love for coding and have signific
 - 🤓 Outside of work, I'm learning PostgreSQL
 - 💬 Ask me about: All things design related
 - 😄 Pronouns: She/her
-- ⚡️ Outside of coding, I enjoy board games, video games, karaoke, hot yoga and cooking!
+- ⚡️ Outside of coding, I enjoy board games, video games, karaoke, travelling and kayaking!
 
 To learn more, checkout my <a href="https://annaliang.dev/" target=”_blank”>personal portfolio</a>.
